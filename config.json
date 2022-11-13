@@ -1,0 +1,8 @@
+{
+    "modules": [
+        "dashboard",
+        "product detail",
+        "profil",
+        "navigation"
+    ]
+}
